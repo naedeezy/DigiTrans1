@@ -1,0 +1,43 @@
+ans=["yes","no"]
+
+for a in ans:
+    for b in ans:
+        for c in ans:
+            for d in ans:
+                for e in ans:
+                    for f in ans:
+                        for g in ans:
+                            for h in ans:
+                                for i in ans:
+                                    for j in ans:
+                                        for k in ans:
+                                            for l in ans:
+                                                for m in ans:
+                                                    for n in ans:
+                                                        for o in ans:
+                                                            for p in ans:
+                                                                for q in ans:
+                                                                    for r in ans:
+                                                                        for s in ans:
+                                                                            for t in ans:
+                                                                                for u in ans:
+                                                                                    for v in ans:
+                                                                                        for w in ans:
+                                                                                            for x in ans:
+                                                                                                for y in ans:
+                                                                                                    for z in ans:
+                                                                                                        for aa in ans:
+                                                                                                            for ab in ans:
+                                                                                                                for ac in ans:
+                                                                                                                    for ad in ans:
+                                                                                                                        for ae in ans:
+                                                                                                                            for af in ans:
+                                                                                                                                for ag in ans:
+                                                                                                                                    for ah in ans:
+                                                                                                                                        for ai in ans:
+                                                                                                                                            for aj in ans:
+                                                                                                                                                for ak in ans:
+                                                                                                                                                    for al in ans:
+                                                                                                                                                        for am in ans:
+                                                                                                                                                            for an in ans:
+                                                                                                                                                                print(f'acne="{a}" and appetite="{b}" and bloat="{c}" and breath="{d}" and burping="{e}" and bloat="{f}" and cold_flu="{g}" and cramp="{h}" and dizziness="{i}" and drool="{j}" and emotion="{k}" and fatigue="{l}" and forget="{m}" and had_sex="{n}" and hunger="{o}" and missed_period="{p}" and mood="{q}" and nausea="{r}" and protection="{s}" and sweat="{t}" and swollen="{u}" and tender_breasts="{v}" and tingling="{w}" and v_bleeding="{x}" and vomiting="{y}" back="{z}" and sleep="{aa}" and weight="{ab}" and head="{ac}" and thirst="{ad}" and smell="{ae}" and urinate="{af}" and libido="{ag}" and heavy="{ah}" and spot="{ai}" and skin="{aj}" and nail="{ak}" and teeth="{al}" and temp="{am}" and v_discharge="{an}"')

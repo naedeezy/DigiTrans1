@@ -1,3 +1,5 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html>
 
@@ -14,7 +16,8 @@
 			margin: 0;
 			padding: 0;
 			height: 100%;
-			background: #7abecc !important;
+
+
 		}
 		.user_card {
 			width: 350px;
@@ -47,6 +50,7 @@
 			background: #33ccff !important;
 			color: white !important;
 		}
+
 		.login_btn:focus {
 			box-shadow: none !important;
 			outline: 0px !important;
@@ -72,10 +76,15 @@
 			padding: 10px;
 			margin-top: 10px;
 		}
+        #bg{
+        background-position: center;
+        background-size: 1980px 1080px;
+
+    }
 	</style>
 
 </head>
-<body>
+<body id= "bg" style="background-image: url('{% static 'Espoire/images/background.png' %}');">
 	<div class="container h-100">
 		<div class="d-flex justify-content-center h-100">
 			<div class="user_card">
